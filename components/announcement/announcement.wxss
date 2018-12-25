@@ -1,0 +1,16 @@
+.anmContainer{
+  width: 100%;
+  padding: 10px 10px;
+  background-color: #fff7cc;
+}
+.anmWrap{
+  display: flex;
+  position: relative;
+  overflow: hidden;
+}
+.anmWrap .anm{
+  white-space: nowrap;
+  flex: 1;
+  color: #f60;
+}
+

@@ -1,0 +1,9 @@
+<!--components/announcement/announcement.wxml-->
+<view class='anmContainer'>
+  <view class="anmWrap">
+    <view class='anm' animation="{{ animationData }}">
+      {{text}}
+    </view>
+  </view>
+</view>
+
